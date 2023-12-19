@@ -1,0 +1,22 @@
+{
+  "cars": [
+    {
+      "model": "Palio",
+      "year": 2013,
+      "plate": "123123",
+      "km": "8",
+      "isMaintainceOk": true,
+      "isOilOk": true,
+      "id": 1
+    },
+    {
+      "model": "Clio",
+      "year": "2011",
+      "plate": "dqw123",
+      "km": "5",
+      "isMaintainceOk": false,
+      "isOilOk": false,
+      "id": 2
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Built output
+build/
+dist/
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Optional: Uncomment the following lines if you use TypeScript
+# Compiled TypeScript
+*.js
+*.js.map
